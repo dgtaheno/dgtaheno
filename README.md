@@ -1,10 +1,24 @@
-- 👋 Hi, I’m David García-Taheno Fernandez
-- 👀 I’m interested in IoT, ESP32, Raspberry Pi, Python, C, rocketry
-- 🌱 I’m currently learning embedded software development, 3D printing(custom Firmware), ESP32, Raspberry Pi.Now focused on Rocketry avionics flight & ground modules development.
-- 💞️ I’m looking to collaborate on IoT
-- 📫 How to reach me dgtaheno@hotmail.com
+# Hi, I'm David García-Taheño
 
-<!---
-Scrap17/Scrap17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Industrial engineering and technical sales professional building embedded systems, IoT and telemetry projects.
+
+Currently focused on ESP32-based flight telemetry, GNSS logging, sensor integration and embedded C++.
+
+## Featured Projects
+
+- Flight Telemetry & Data Logger
+- Ground Station Dashboard
+- LoRa Telemetry Link
+- Flight Analyzer
+
+## Tech Stack
+
+C++ · ESP32 · PlatformIO · Python · Git · GPS · Sensors · SD Logging · IoT
+
+## Background
+
+Technical sales and project management background in industrial engineering, with hands-on embedded systems development through personal IoT and flight telemetry projects.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/dgtaheno/)
